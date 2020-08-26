@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ch01/tacos/pom.xml" />
+        <option value="$PROJECT_DIR$/ch02/tacos/pom.xml" />
+        <option value="$PROJECT_DIR$/ch03/tacos-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/ch03/tacos-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04/tacos/pom.xml" />
+        <option value="$PROJECT_DIR$/ch05/tacos/pom.xml" />
+        <option value="$PROJECT_DIR$/ch06/pom.xml" />
+        <option value="$PROJECT_DIR$/ch07/pom.xml" />
+        <option value="$PROJECT_DIR$/ch08/pom.xml" />
+        <option value="$PROJECT_DIR$/ch09/taco-cloud/pom.xml" />
+        <option value="$PROJECT_DIR$/ch09/simple-flow/pom.xml" />
+        <option value="$PROJECT_DIR$/ch10/reactor-fun/pom.xml" />
+        <option value="$PROJECT_DIR$/ch13/service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/ch13/ingredient-client/pom.xml" />
+        <option value="$PROJECT_DIR$/ch13/ingredient-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ch14/greetings/greetings/pom.xml" />
+        <option value="$PROJECT_DIR$/ch14/greetings/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ch14/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ch14/service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/ch14/ingredient-client/pom.xml" />
+        <option value="$PROJECT_DIR$/ch14/ingredient-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ch15/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ch15/turbine-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ch15/service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/ch15/hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/ch15/ingredient-client/pom.xml" />
+        <option value="$PROJECT_DIR$/ch15/ingredient-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ch16/taco-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ch16/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ch16/turbine-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ch16/service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/ch16/hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/ch16/ingredient-client/pom.xml" />
+        <option value="$PROJECT_DIR$/ch16/ingredient-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ch17/taco-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ch17/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ch17/turbine-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ch17/service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/ch17/boot-admin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ch17/hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/ch17/ingredient-client/pom.xml" />
+        <option value="$PROJECT_DIR$/ch17/ingredient-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ch18/taco-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ch18/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ch18/turbine-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ch18/service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/ch18/boot-admin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ch18/hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/ch18/ingredient-client/pom.xml" />
+        <option value="$PROJECT_DIR$/ch18/ingredient-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ch19/taco-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ch19/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ch19/turbine-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ch19/service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/ch19/boot-admin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ch19/hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/ch19/ingredient-client/pom.xml" />
+        <option value="$PROJECT_DIR$/ch19/ingredient-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ch11_12/tacocloud-mongodb/pom.xml" />
+        <option value="$PROJECT_DIR$/ch11_12/tacocloud-cassandra/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" project-jdk-name="14" project-jdk-type="JavaSDK" />
+</project>

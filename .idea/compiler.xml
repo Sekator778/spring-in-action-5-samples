@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service-registry (2)" />
+        <module name="tacocloud-restclient (1)" />
+        <module name="ingredient-client (1)" />
+        <module name="tacocloud-restclient" />
+        <module name="tacocloud-domain (3)" />
+        <module name="tacocloud-kitchen (1)" />
+        <module name="tacocloud-domain" />
+        <module name="tacocloud-security (1)" />
+        <module name="ingredient-service (4)" />
+        <module name="taco-cloud (8)" />
+        <module name="hystrix-dashboard" />
+        <module name="tacocloud-messaging-rabbitmq" />
+        <module name="tacocloud-api (4)" />
+        <module name="taco-service (1)" />
+        <module name="tacocloud-domain (4)" />
+        <module name="service-registry (3)" />
+        <module name="tacocloud-security (2)" />
+        <module name="ingredient-service (3)" />
+        <module name="taco-cloud (7)" />
+        <module name="tacocloud-messaging-jms (3)" />
+        <module name="tacocloud-email (1)" />
+        <module name="reactor-fun" />
+        <module name="tacocloud-messaging-kafka" />
+        <module name="tacocloud-web" />
+        <module name="service-registry" />
+        <module name="tacocloud-api (5)" />
+        <module name="taco-service (2)" />
+        <module name="tacocloud-domain (1)" />
+        <module name="tacocloud-kitchen (3)" />
+        <module name="tacocloud-data (4)" />
+        <module name="service-registry (4)" />
+        <module name="ingredient-service (6)" />
+        <module name="tacocloud-messaging-jms (2)" />
+        <module name="tacocloud-security" />
+        <module name="boot-admin-server" />
+        <module name="taco-cloud (11)" />
+        <module name="taco-cloud (6)" />
+        <module name="config-server (1)" />
+        <module name="tacocloud-web (1)" />
+        <module name="taco-service (3)" />
+        <module name="tacocloud-domain (2)" />
+        <module name="service-registry (5)" />
+        <module name="tacocloud-kitchen (2)" />
+        <module name="ingredient-client (6)" />
+        <module name="ingredient-service (5)" />
+        <module name="tacocloud-ui (1)" />
+        <module name="tacocloud-email" />
+        <module name="config-server" />
+        <module name="tacocloud-messaging-jms (1)" />
+        <module name="tacocloud-api" />
+        <module name="taco-cloud (5)" />
+        <module name="taco-cloud (10)" />
+        <module name="ingredient-client" />
+        <module name="config-server (2)" />
+        <module name="hystrix-dashboard (3)" />
+        <module name="service-registry (6)" />
+        <module name="ingredient-client (5)" />
+        <module name="tacocloud-messaging-jms" />
+        <module name="tacocloud-data (2)" />
+        <module name="taco-cloud" />
+        <module name="tacocloud-messaging-rabbitmq (1)" />
+        <module name="tacocloud-ui (2)" />
+        <module name="turbine-server (3)" />
+        <module name="tacocloud-data-mongodb" />
+        <module name="turbine-server (2)" />
+        <module name="tacocloud-security (5)" />
+        <module name="taco-service" />
+        <module name="taco-cloud (4)" />
+        <module name="tacocloud-web (3)" />
+        <module name="config-server (3)" />
+        <module name="ingredient-client (4)" />
+        <module name="hystrix-dashboard (4)" />
+        <module name="tacocloud-data (3)" />
+        <module name="tacocloud-ui (3)" />
+        <module name="taco-cloud (2)" />
+        <module name="turbine-server (4)" />
+        <module name="tacocloud-api (1)" />
+        <module name="tacocloud-ui" />
+        <module name="taco-cloud (3)" />
+        <module name="config-server (4)" />
+        <module name="tacocloud-messaging-kafka (1)" />
+        <module name="tacocloud-restclient (4)" />
+        <module name="tacocloud-web (2)" />
+        <module name="ingredient-client (3)" />
+        <module name="ingredient-service (2)" />
+        <module name="tacocloud-messaging-rabbitmq (3)" />
+        <module name="hystrix-dashboard (1)" />
+        <module name="taco-cloud (1)" />
+        <module name="greetings" />
+        <module name="tacocloud-ui (4)" />
+        <module name="simple-flow" />
+        <module name="boot-admin-server (1)" />
+        <module name="ingredient-service" />
+        <module name="tacocloud-security (3)" />
+        <module name="tacocloud-api (2)" />
+        <module name="tacocloud-email (2)" />
+        <module name="config-server (5)" />
+        <module name="tacocloud-messaging-kafka (2)" />
+        <module name="tacocloud-restclient (3)" />
+        <module name="turbine-server" />
+        <module name="ingredient-service (1)" />
+        <module name="service-registry (1)" />
+        <module name="tacocloud-web (5)" />
+        <module name="ingredient-client (2)" />
+        <module name="tacocloud-domain-mongodb" />
+        <module name="tacocloud-messaging-rabbitmq (2)" />
+        <module name="hystrix-dashboard (2)" />
+        <module name="tacocloud-data (1)" />
+        <module name="tacocloud-ui (5)" />
+        <module name="boot-admin-server (2)" />
+        <module name="tacocloud-data" />
+        <module name="tacocloud-kitchen" />
+        <module name="turbine-server (1)" />
+        <module name="taco-cloud (9)" />
+        <module name="tacocloud-security (4)" />
+        <module name="config-server (6)" />
+        <module name="tacocloud-api (3)" />
+        <module name="tacocloud-messaging-kafka (3)" />
+        <module name="tacocloud-web (4)" />
+        <module name="tacocloud-restclient (2)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="boot-admin-server" target="1.8" />
+      <module name="boot-admin-server (1)" target="1.8" />
+      <module name="boot-admin-server (2)" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="config-server (1)" target="1.8" />
+      <module name="config-server (2)" target="1.8" />
+      <module name="config-server (3)" target="1.8" />
+      <module name="config-server (4)" target="1.8" />
+      <module name="config-server (5)" target="1.8" />
+      <module name="config-server (6)" target="1.8" />
+      <module name="greetings" target="1.8" />
+      <module name="hystrix-dashboard" target="1.8" />
+      <module name="hystrix-dashboard (1)" target="1.8" />
+      <module name="hystrix-dashboard (2)" target="1.8" />
+      <module name="hystrix-dashboard (3)" target="1.8" />
+      <module name="hystrix-dashboard (4)" target="1.8" />
+      <module name="ingredient-client" target="1.8" />
+      <module name="ingredient-client (1)" target="1.8" />
+      <module name="ingredient-client (2)" target="1.8" />
+      <module name="ingredient-client (3)" target="1.8" />
+      <module name="ingredient-client (4)" target="1.8" />
+      <module name="ingredient-client (5)" target="1.8" />
+      <module name="ingredient-client (6)" target="1.8" />
+      <module name="ingredient-service" target="1.8" />
+      <module name="ingredient-service (1)" target="1.8" />
+      <module name="ingredient-service (2)" target="1.8" />
+      <module name="ingredient-service (3)" target="1.8" />
+      <module name="ingredient-service (4)" target="1.8" />
+      <module name="ingredient-service (5)" target="1.8" />
+      <module name="ingredient-service (6)" target="1.8" />
+      <module name="reactor-fun" target="1.8" />
+      <module name="service-registry" target="1.8" />
+      <module name="service-registry (1)" target="1.8" />
+      <module name="service-registry (2)" target="1.8" />
+      <module name="service-registry (3)" target="1.8" />
+      <module name="service-registry (4)" target="1.8" />
+      <module name="service-registry (5)" target="1.8" />
+      <module name="service-registry (6)" target="1.8" />
+      <module name="simple-flow" target="1.8" />
+      <module name="taco-cloud" target="1.8" />
+      <module name="taco-cloud (1)" target="1.8" />
+      <module name="taco-cloud (10)" target="1.8" />
+      <module name="taco-cloud (11)" target="1.8" />
+      <module name="taco-cloud (2)" target="1.8" />
+      <module name="taco-cloud (3)" target="1.8" />
+      <module name="taco-cloud (4)" target="1.8" />
+      <module name="taco-cloud (5)" target="1.8" />
+      <module name="taco-cloud (6)" target="1.8" />
+      <module name="taco-cloud (7)" target="1.8" />
+      <module name="taco-cloud (8)" target="1.8" />
+      <module name="taco-cloud (9)" target="1.8" />
+      <module name="taco-cloud-parent" target="1.8" />
+      <module name="taco-cloud-parent (1)" target="1.8" />
+      <module name="taco-cloud-parent (2)" target="1.8" />
+      <module name="taco-cloud-parent (3)" target="1.8" />
+      <module name="taco-cloud-parent (4)" target="1.8" />
+      <module name="taco-cloud-parent (5)" target="1.8" />
+      <module name="taco-service" target="1.8" />
+      <module name="taco-service (1)" target="1.8" />
+      <module name="taco-service (2)" target="1.8" />
+      <module name="taco-service (3)" target="1.8" />
+      <module name="tacocloud-api" target="1.8" />
+      <module name="tacocloud-api (1)" target="1.8" />
+      <module name="tacocloud-api (2)" target="1.8" />
+      <module name="tacocloud-api (3)" target="1.8" />
+      <module name="tacocloud-api (4)" target="1.8" />
+      <module name="tacocloud-api (5)" target="1.8" />
+      <module name="tacocloud-data" target="1.8" />
+      <module name="tacocloud-data (1)" target="1.8" />
+      <module name="tacocloud-data (2)" target="1.8" />
+      <module name="tacocloud-data (3)" target="1.8" />
+      <module name="tacocloud-data (4)" target="1.8" />
+      <module name="tacocloud-data-mongodb" target="1.8" />
+      <module name="tacocloud-domain" target="1.8" />
+      <module name="tacocloud-domain (1)" target="1.8" />
+      <module name="tacocloud-domain (2)" target="1.8" />
+      <module name="tacocloud-domain (3)" target="1.8" />
+      <module name="tacocloud-domain (4)" target="1.8" />
+      <module name="tacocloud-domain-mongodb" target="1.8" />
+      <module name="tacocloud-email" target="1.8" />
+      <module name="tacocloud-email (1)" target="1.8" />
+      <module name="tacocloud-email (2)" target="1.8" />
+      <module name="tacocloud-kitchen" target="1.8" />
+      <module name="tacocloud-kitchen (1)" target="1.8" />
+      <module name="tacocloud-kitchen (2)" target="1.8" />
+      <module name="tacocloud-kitchen (3)" target="1.8" />
+      <module name="tacocloud-messaging-jms" target="1.8" />
+      <module name="tacocloud-messaging-jms (1)" target="1.8" />
+      <module name="tacocloud-messaging-jms (2)" target="1.8" />
+      <module name="tacocloud-messaging-jms (3)" target="1.8" />
+      <module name="tacocloud-messaging-kafka" target="1.8" />
+      <module name="tacocloud-messaging-kafka (1)" target="1.8" />
+      <module name="tacocloud-messaging-kafka (2)" target="1.8" />
+      <module name="tacocloud-messaging-kafka (3)" target="1.8" />
+      <module name="tacocloud-messaging-rabbitmq" target="1.8" />
+      <module name="tacocloud-messaging-rabbitmq (1)" target="1.8" />
+      <module name="tacocloud-messaging-rabbitmq (2)" target="1.8" />
+      <module name="tacocloud-messaging-rabbitmq (3)" target="1.8" />
+      <module name="tacocloud-restclient" target="1.8" />
+      <module name="tacocloud-restclient (1)" target="1.8" />
+      <module name="tacocloud-restclient (2)" target="1.8" />
+      <module name="tacocloud-restclient (3)" target="1.8" />
+      <module name="tacocloud-restclient (4)" target="1.8" />
+      <module name="tacocloud-security" target="1.8" />
+      <module name="tacocloud-security (1)" target="1.8" />
+      <module name="tacocloud-security (2)" target="1.8" />
+      <module name="tacocloud-security (3)" target="1.8" />
+      <module name="tacocloud-security (4)" target="1.8" />
+      <module name="tacocloud-security (5)" target="1.8" />
+      <module name="tacocloud-ui" target="1.8" />
+      <module name="tacocloud-ui (1)" target="1.8" />
+      <module name="tacocloud-ui (2)" target="1.8" />
+      <module name="tacocloud-ui (3)" target="1.8" />
+      <module name="tacocloud-ui (4)" target="1.8" />
+      <module name="tacocloud-ui (5)" target="1.8" />
+      <module name="tacocloud-web" target="1.8" />
+      <module name="tacocloud-web (1)" target="1.8" />
+      <module name="tacocloud-web (2)" target="1.8" />
+      <module name="tacocloud-web (3)" target="1.8" />
+      <module name="tacocloud-web (4)" target="1.8" />
+      <module name="tacocloud-web (5)" target="1.8" />
+      <module name="turbine-server" target="1.8" />
+      <module name="turbine-server (1)" target="1.8" />
+      <module name="turbine-server (2)" target="1.8" />
+      <module name="turbine-server (3)" target="1.8" />
+      <module name="turbine-server (4)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="boot-admin-server" options="-parameters" />
+      <module name="boot-admin-server (1)" options="-parameters" />
+      <module name="boot-admin-server (2)" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="config-server (1)" options="-parameters" />
+      <module name="config-server (2)" options="-parameters" />
+      <module name="config-server (3)" options="-parameters" />
+      <module name="config-server (4)" options="-parameters" />
+      <module name="config-server (5)" options="-parameters" />
+      <module name="config-server (6)" options="-parameters" />
+      <module name="greetings" options="-parameters" />
+      <module name="hystrix-dashboard" options="-parameters" />
+      <module name="hystrix-dashboard (1)" options="-parameters" />
+      <module name="hystrix-dashboard (2)" options="-parameters" />
+      <module name="hystrix-dashboard (3)" options="-parameters" />
+      <module name="hystrix-dashboard (4)" options="-parameters" />
+      <module name="ingredient-client" options="-parameters" />
+      <module name="ingredient-client (1)" options="-parameters" />
+      <module name="ingredient-client (2)" options="-parameters" />
+      <module name="ingredient-client (3)" options="-parameters" />
+      <module name="ingredient-client (4)" options="-parameters" />
+      <module name="ingredient-client (5)" options="-parameters" />
+      <module name="ingredient-client (6)" options="-parameters" />
+      <module name="ingredient-service" options="-parameters" />
+      <module name="ingredient-service (1)" options="-parameters" />
+      <module name="ingredient-service (2)" options="-parameters" />
+      <module name="ingredient-service (3)" options="-parameters" />
+      <module name="ingredient-service (4)" options="-parameters" />
+      <module name="ingredient-service (5)" options="-parameters" />
+      <module name="ingredient-service (6)" options="-parameters" />
+      <module name="reactor-fun" options="-parameters" />
+      <module name="service-registry" options="-parameters" />
+      <module name="service-registry (1)" options="-parameters" />
+      <module name="service-registry (2)" options="-parameters" />
+      <module name="service-registry (3)" options="-parameters" />
+      <module name="service-registry (4)" options="-parameters" />
+      <module name="service-registry (5)" options="-parameters" />
+      <module name="service-registry (6)" options="-parameters" />
+      <module name="simple-flow" options="-parameters" />
+      <module name="taco-cloud" options="-parameters" />
+      <module name="taco-cloud (1)" options="-parameters" />
+      <module name="taco-cloud (10)" options="-parameters" />
+      <module name="taco-cloud (11)" options="-parameters" />
+      <module name="taco-cloud (2)" options="-parameters" />
+      <module name="taco-cloud (3)" options="-parameters" />
+      <module name="taco-cloud (4)" options="-parameters" />
+      <module name="taco-cloud (5)" options="-parameters" />
+      <module name="taco-cloud (6)" options="-parameters" />
+      <module name="taco-cloud (7)" options="-parameters" />
+      <module name="taco-cloud (8)" options="-parameters" />
+      <module name="taco-cloud (9)" options="-parameters" />
+      <module name="taco-service" options="-parameters" />
+      <module name="taco-service (1)" options="-parameters" />
+      <module name="taco-service (2)" options="-parameters" />
+      <module name="taco-service (3)" options="-parameters" />
+      <module name="tacocloud-api" options="-parameters" />
+      <module name="tacocloud-api (1)" options="-parameters" />
+      <module name="tacocloud-api (2)" options="-parameters" />
+      <module name="tacocloud-api (3)" options="-parameters" />
+      <module name="tacocloud-api (4)" options="-parameters" />
+      <module name="tacocloud-api (5)" options="-parameters" />
+      <module name="tacocloud-data" options="-parameters" />
+      <module name="tacocloud-data (1)" options="-parameters" />
+      <module name="tacocloud-data (2)" options="-parameters" />
+      <module name="tacocloud-data (3)" options="-parameters" />
+      <module name="tacocloud-data (4)" options="-parameters" />
+      <module name="tacocloud-data-mongodb" options="-parameters" />
+      <module name="tacocloud-domain" options="-parameters" />
+      <module name="tacocloud-domain (1)" options="-parameters" />
+      <module name="tacocloud-domain (2)" options="-parameters" />
+      <module name="tacocloud-domain (3)" options="-parameters" />
+      <module name="tacocloud-domain (4)" options="-parameters" />
+      <module name="tacocloud-domain-mongodb" options="-parameters" />
+      <module name="tacocloud-email" options="-parameters" />
+      <module name="tacocloud-email (1)" options="-parameters" />
+      <module name="tacocloud-email (2)" options="-parameters" />
+      <module name="tacocloud-kitchen" options="-parameters" />
+      <module name="tacocloud-kitchen (1)" options="-parameters" />
+      <module name="tacocloud-kitchen (2)" options="-parameters" />
+      <module name="tacocloud-kitchen (3)" options="-parameters" />
+      <module name="tacocloud-messaging-jms" options="-parameters" />
+      <module name="tacocloud-messaging-jms (1)" options="-parameters" />
+      <module name="tacocloud-messaging-jms (2)" options="-parameters" />
+      <module name="tacocloud-messaging-jms (3)" options="-parameters" />
+      <module name="tacocloud-messaging-kafka" options="-parameters" />
+      <module name="tacocloud-messaging-kafka (1)" options="-parameters" />
+      <module name="tacocloud-messaging-kafka (2)" options="-parameters" />
+      <module name="tacocloud-messaging-kafka (3)" options="-parameters" />
+      <module name="tacocloud-messaging-rabbitmq" options="-parameters" />
+      <module name="tacocloud-messaging-rabbitmq (1)" options="-parameters" />
+      <module name="tacocloud-messaging-rabbitmq (2)" options="-parameters" />
+      <module name="tacocloud-messaging-rabbitmq (3)" options="-parameters" />
+      <module name="tacocloud-restclient" options="-parameters" />
+      <module name="tacocloud-restclient (1)" options="-parameters" />
+      <module name="tacocloud-restclient (2)" options="-parameters" />
+      <module name="tacocloud-restclient (3)" options="-parameters" />
+      <module name="tacocloud-restclient (4)" options="-parameters" />
+      <module name="tacocloud-security" options="-parameters" />
+      <module name="tacocloud-security (1)" options="-parameters" />
+      <module name="tacocloud-security (2)" options="-parameters" />
+      <module name="tacocloud-security (3)" options="-parameters" />
+      <module name="tacocloud-security (4)" options="-parameters" />
+      <module name="tacocloud-security (5)" options="-parameters" />
+      <module name="tacocloud-ui" options="-parameters" />
+      <module name="tacocloud-ui (1)" options="-parameters" />
+      <module name="tacocloud-ui (2)" options="-parameters" />
+      <module name="tacocloud-ui (3)" options="-parameters" />
+      <module name="tacocloud-ui (4)" options="-parameters" />
+      <module name="tacocloud-ui (5)" options="-parameters" />
+      <module name="tacocloud-web" options="-parameters" />
+      <module name="tacocloud-web (1)" options="-parameters" />
+      <module name="tacocloud-web (2)" options="-parameters" />
+      <module name="tacocloud-web (3)" options="-parameters" />
+      <module name="tacocloud-web (4)" options="-parameters" />
+      <module name="tacocloud-web (5)" options="-parameters" />
+      <module name="turbine-server" options="-parameters" />
+      <module name="turbine-server (1)" options="-parameters" />
+      <module name="turbine-server (2)" options="-parameters" />
+      <module name="turbine-server (3)" options="-parameters" />
+      <module name="turbine-server (4)" options="-parameters" />
+    </option>
+  </component>
+</project>

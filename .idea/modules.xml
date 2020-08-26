@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch17/boot-admin-server/boot-admin-server.iml" filepath="$PROJECT_DIR$/ch17/boot-admin-server/boot-admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch18/boot-admin-server/boot-admin-server (1).iml" filepath="$PROJECT_DIR$/ch18/boot-admin-server/boot-admin-server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch19/boot-admin-server/boot-admin-server (2).iml" filepath="$PROJECT_DIR$/ch19/boot-admin-server/boot-admin-server (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch14/greetings/config-server/config-server.iml" filepath="$PROJECT_DIR$/ch14/greetings/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch14/config-server/config-server (1).iml" filepath="$PROJECT_DIR$/ch14/config-server/config-server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch15/config-server/config-server (2).iml" filepath="$PROJECT_DIR$/ch15/config-server/config-server (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch16/config-server/config-server (3).iml" filepath="$PROJECT_DIR$/ch16/config-server/config-server (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch17/config-server/config-server (4).iml" filepath="$PROJECT_DIR$/ch17/config-server/config-server (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch18/config-server/config-server (5).iml" filepath="$PROJECT_DIR$/ch18/config-server/config-server (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch19/config-server/config-server (6).iml" filepath="$PROJECT_DIR$/ch19/config-server/config-server (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch14/greetings/greetings/greetings.iml" filepath="$PROJECT_DIR$/ch14/greetings/greetings/greetings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch15/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/ch15/hystrix-dashboard/hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch16/hystrix-dashboard/hystrix-dashboard (1).iml" filepath="$PROJECT_DIR$/ch16/hystrix-dashboard/hystrix-dashboard (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch17/hystrix-dashboard/hystrix-dashboard (2).iml" filepath="$PROJECT_DIR$/ch17/hystrix-dashboard/hystrix-dashboard (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch18/hystrix-dashboard/hystrix-dashboard (3).iml" filepath="$PROJECT_DIR$/ch18/hystrix-dashboard/hystrix-dashboard (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch19/hystrix-dashboard/hystrix-dashboard (4).iml" filepath="$PROJECT_DIR$/ch19/hystrix-dashboard/hystrix-dashboard (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch13/ingredient-client/ingredient-client.iml" filepath="$PROJECT_DIR$/ch13/ingredient-client/ingredient-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch14/ingredient-client/ingredient-client (1).iml" filepath="$PROJECT_DIR$/ch14/ingredient-client/ingredient-client (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch15/ingredient-client/ingredient-client (2).iml" filepath="$PROJECT_DIR$/ch15/ingredient-client/ingredient-client (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch16/ingredient-client/ingredient-client (3).iml" filepath="$PROJECT_DIR$/ch16/ingredient-client/ingredient-client (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch17/ingredient-client/ingredient-client (4).iml" filepath="$PROJECT_DIR$/ch17/ingredient-client/ingredient-client (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch18/ingredient-client/ingredient-client (5).iml" filepath="$PROJECT_DIR$/ch18/ingredient-client/ingredient-client (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch19/ingredient-client/ingredient-client (6).iml" filepath="$PROJECT_DIR$/ch19/ingredient-client/ingredient-client (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch13/ingredient-service/ingredient-service.iml" filepath="$PROJECT_DIR$/ch13/ingredient-service/ingredient-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch14/ingredient-service/ingredient-service (1).iml" filepath="$PROJECT_DIR$/ch14/ingredient-service/ingredient-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch15/ingredient-service/ingredient-service (2).iml" filepath="$PROJECT_DIR$/ch15/ingredient-service/ingredient-service (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch16/ingredient-service/ingredient-service (3).iml" filepath="$PROJECT_DIR$/ch16/ingredient-service/ingredient-service (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch17/ingredient-service/ingredient-service (4).iml" filepath="$PROJECT_DIR$/ch17/ingredient-service/ingredient-service (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch18/ingredient-service/ingredient-service (5).iml" filepath="$PROJECT_DIR$/ch18/ingredient-service/ingredient-service (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch19/ingredient-service/ingredient-service (6).iml" filepath="$PROJECT_DIR$/ch19/ingredient-service/ingredient-service (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch10/reactor-fun/reactor-fun.iml" filepath="$PROJECT_DIR$/ch10/reactor-fun/reactor-fun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch13/service-registry/service-registry.iml" filepath="$PROJECT_DIR$/ch13/service-registry/service-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch14/service-registry/service-registry (1).iml" filepath="$PROJECT_DIR$/ch14/service-registry/service-registry (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch15/service-registry/service-registry (2).iml" filepath="$PROJECT_DIR$/ch15/service-registry/service-registry (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch16/service-registry/service-registry (3).iml" filepath="$PROJECT_DIR$/ch16/service-registry/service-registry (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch17/service-registry/service-registry (4).iml" filepath="$PROJECT_DIR$/ch17/service-registry/service-registry (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch18/service-registry/service-registry (5).iml" filepath="$PROJECT_DIR$/ch18/service-registry/service-registry (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch19/service-registry/service-registry (6).iml" filepath="$PROJECT_DIR$/ch19/service-registry/service-registry (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09/simple-flow/simple-flow.iml" filepath="$PROJECT_DIR$/ch09/simple-flow/simple-flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-in-action-5-samples-master.iml" filepath="$PROJECT_DIR$/.idea/spring-in-action-5-samples-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch01/tacos/taco-cloud.iml" filepath="$PROJECT_DIR$/ch01/tacos/taco-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02/tacos/taco-cloud (1).iml" filepath="$PROJECT_DIR$/ch02/tacos/taco-cloud (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacos/taco-cloud (10).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacos/taco-cloud (10).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacos/taco-cloud (11).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacos/taco-cloud (11).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03/tacos-jpa/taco-cloud (2).iml" filepath="$PROJECT_DIR$/ch03/tacos-jpa/taco-cloud (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03/tacos-jdbc/taco-cloud (3).iml" filepath="$PROJECT_DIR$/ch03/tacos-jdbc/taco-cloud (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04/tacos/taco-cloud (4).iml" filepath="$PROJECT_DIR$/ch04/tacos/taco-cloud (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05/tacos/taco-cloud (5).iml" filepath="$PROJECT_DIR$/ch05/tacos/taco-cloud (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06/tacos/taco-cloud (6).iml" filepath="$PROJECT_DIR$/ch06/tacos/taco-cloud (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07/tacos/taco-cloud (7).iml" filepath="$PROJECT_DIR$/ch07/tacos/taco-cloud (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08/tacos/taco-cloud (8).iml" filepath="$PROJECT_DIR$/ch08/tacos/taco-cloud (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09/taco-cloud/tacos/taco-cloud (9).iml" filepath="$PROJECT_DIR$/ch09/taco-cloud/tacos/taco-cloud (9).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06/taco-cloud-parent.iml" filepath="$PROJECT_DIR$/ch06/taco-cloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07/taco-cloud-parent (1).iml" filepath="$PROJECT_DIR$/ch07/taco-cloud-parent (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08/taco-cloud-parent (2).iml" filepath="$PROJECT_DIR$/ch08/taco-cloud-parent (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09/taco-cloud/taco-cloud-parent (3).iml" filepath="$PROJECT_DIR$/ch09/taco-cloud/taco-cloud-parent (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-mongodb/taco-cloud-parent (4).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-mongodb/taco-cloud-parent (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-cassandra/taco-cloud-parent (5).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-cassandra/taco-cloud-parent (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch16/taco-service/taco-service.iml" filepath="$PROJECT_DIR$/ch16/taco-service/taco-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch17/taco-service/taco-service (1).iml" filepath="$PROJECT_DIR$/ch17/taco-service/taco-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch18/taco-service/taco-service (2).iml" filepath="$PROJECT_DIR$/ch18/taco-service/taco-service (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch19/taco-service/taco-service (3).iml" filepath="$PROJECT_DIR$/ch19/taco-service/taco-service (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06/tacocloud-api/tacocloud-api.iml" filepath="$PROJECT_DIR$/ch06/tacocloud-api/tacocloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07/tacocloud-api/tacocloud-api (1).iml" filepath="$PROJECT_DIR$/ch07/tacocloud-api/tacocloud-api (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08/tacocloud-api/tacocloud-api (2).iml" filepath="$PROJECT_DIR$/ch08/tacocloud-api/tacocloud-api (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09/taco-cloud/tacocloud-api/tacocloud-api (3).iml" filepath="$PROJECT_DIR$/ch09/taco-cloud/tacocloud-api/tacocloud-api (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-api/tacocloud-api (4).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-api/tacocloud-api (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-api/tacocloud-api (5).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-api/tacocloud-api (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06/tacocloud-data/tacocloud-data.iml" filepath="$PROJECT_DIR$/ch06/tacocloud-data/tacocloud-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07/tacocloud-data/tacocloud-data (1).iml" filepath="$PROJECT_DIR$/ch07/tacocloud-data/tacocloud-data (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08/tacocloud-data/tacocloud-data (2).iml" filepath="$PROJECT_DIR$/ch08/tacocloud-data/tacocloud-data (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09/taco-cloud/tacocloud-data/tacocloud-data (3).iml" filepath="$PROJECT_DIR$/ch09/taco-cloud/tacocloud-data/tacocloud-data (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-data/tacocloud-data (4).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-data/tacocloud-data (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-data-mongodb/tacocloud-data-mongodb.iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-data-mongodb/tacocloud-data-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06/tacocloud-domain/tacocloud-domain.iml" filepath="$PROJECT_DIR$/ch06/tacocloud-domain/tacocloud-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07/tacocloud-domain/tacocloud-domain (1).iml" filepath="$PROJECT_DIR$/ch07/tacocloud-domain/tacocloud-domain (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08/tacocloud-domain/tacocloud-domain (2).iml" filepath="$PROJECT_DIR$/ch08/tacocloud-domain/tacocloud-domain (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09/taco-cloud/tacocloud-domain/tacocloud-domain (3).iml" filepath="$PROJECT_DIR$/ch09/taco-cloud/tacocloud-domain/tacocloud-domain (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-domain/tacocloud-domain (4).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-domain/tacocloud-domain (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-domain-mongodb/tacocloud-domain-mongodb.iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-domain-mongodb/tacocloud-domain-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09/taco-cloud/tacocloud-email/tacocloud-email.iml" filepath="$PROJECT_DIR$/ch09/taco-cloud/tacocloud-email/tacocloud-email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-email/tacocloud-email (1).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-email/tacocloud-email (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-email/tacocloud-email (2).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-email/tacocloud-email (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08/tacocloud-kitchen/tacocloud-kitchen.iml" filepath="$PROJECT_DIR$/ch08/tacocloud-kitchen/tacocloud-kitchen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09/taco-cloud/tacocloud-kitchen/tacocloud-kitchen (1).iml" filepath="$PROJECT_DIR$/ch09/taco-cloud/tacocloud-kitchen/tacocloud-kitchen (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-kitchen/tacocloud-kitchen (2).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-kitchen/tacocloud-kitchen (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-kitchen/tacocloud-kitchen (3).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-kitchen/tacocloud-kitchen (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08/tacocloud-messaging-jms/tacocloud-messaging-jms.iml" filepath="$PROJECT_DIR$/ch08/tacocloud-messaging-jms/tacocloud-messaging-jms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09/taco-cloud/tacocloud-messaging-jms/tacocloud-messaging-jms (1).iml" filepath="$PROJECT_DIR$/ch09/taco-cloud/tacocloud-messaging-jms/tacocloud-messaging-jms (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-messaging-jms/tacocloud-messaging-jms (2).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-messaging-jms/tacocloud-messaging-jms (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-messaging-jms/tacocloud-messaging-jms (3).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-messaging-jms/tacocloud-messaging-jms (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08/tacocloud-messaging-kafka/tacocloud-messaging-kafka.iml" filepath="$PROJECT_DIR$/ch08/tacocloud-messaging-kafka/tacocloud-messaging-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09/taco-cloud/tacocloud-messaging-kafka/tacocloud-messaging-kafka (1).iml" filepath="$PROJECT_DIR$/ch09/taco-cloud/tacocloud-messaging-kafka/tacocloud-messaging-kafka (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-messaging-kafka/tacocloud-messaging-kafka (2).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-messaging-kafka/tacocloud-messaging-kafka (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-messaging-kafka/tacocloud-messaging-kafka (3).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-messaging-kafka/tacocloud-messaging-kafka (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08/tacocloud-messaging-rabbitmq/tacocloud-messaging-rabbitmq.iml" filepath="$PROJECT_DIR$/ch08/tacocloud-messaging-rabbitmq/tacocloud-messaging-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09/taco-cloud/tacocloud-messaging-rabbitmq/tacocloud-messaging-rabbitmq (1).iml" filepath="$PROJECT_DIR$/ch09/taco-cloud/tacocloud-messaging-rabbitmq/tacocloud-messaging-rabbitmq (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-messaging-rabbitmq/tacocloud-messaging-rabbitmq (2).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-messaging-rabbitmq/tacocloud-messaging-rabbitmq (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-messaging-rabbitmq/tacocloud-messaging-rabbitmq (3).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-messaging-rabbitmq/tacocloud-messaging-rabbitmq (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07/tacocloud-restclient/tacocloud-restclient.iml" filepath="$PROJECT_DIR$/ch07/tacocloud-restclient/tacocloud-restclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08/tacocloud-restclient/tacocloud-restclient (1).iml" filepath="$PROJECT_DIR$/ch08/tacocloud-restclient/tacocloud-restclient (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09/taco-cloud/tacocloud-restclient/tacocloud-restclient (2).iml" filepath="$PROJECT_DIR$/ch09/taco-cloud/tacocloud-restclient/tacocloud-restclient (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-restclient/tacocloud-restclient (3).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-restclient/tacocloud-restclient (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-restclient/tacocloud-restclient (4).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-restclient/tacocloud-restclient (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06/tacocloud-security/tacocloud-security.iml" filepath="$PROJECT_DIR$/ch06/tacocloud-security/tacocloud-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07/tacocloud-security/tacocloud-security (1).iml" filepath="$PROJECT_DIR$/ch07/tacocloud-security/tacocloud-security (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08/tacocloud-security/tacocloud-security (2).iml" filepath="$PROJECT_DIR$/ch08/tacocloud-security/tacocloud-security (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09/taco-cloud/tacocloud-security/tacocloud-security (3).iml" filepath="$PROJECT_DIR$/ch09/taco-cloud/tacocloud-security/tacocloud-security (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-security/tacocloud-security (4).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-security/tacocloud-security (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-security/tacocloud-security (5).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-security/tacocloud-security (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06/tacocloud-ui/tacocloud-ui.iml" filepath="$PROJECT_DIR$/ch06/tacocloud-ui/tacocloud-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07/tacocloud-ui/tacocloud-ui (1).iml" filepath="$PROJECT_DIR$/ch07/tacocloud-ui/tacocloud-ui (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08/tacocloud-ui/tacocloud-ui (2).iml" filepath="$PROJECT_DIR$/ch08/tacocloud-ui/tacocloud-ui (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09/taco-cloud/tacocloud-ui/tacocloud-ui (3).iml" filepath="$PROJECT_DIR$/ch09/taco-cloud/tacocloud-ui/tacocloud-ui (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-ui/tacocloud-ui (4).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-ui/tacocloud-ui (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-ui/tacocloud-ui (5).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-ui/tacocloud-ui (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06/tacocloud-web/tacocloud-web.iml" filepath="$PROJECT_DIR$/ch06/tacocloud-web/tacocloud-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07/tacocloud-web/tacocloud-web (1).iml" filepath="$PROJECT_DIR$/ch07/tacocloud-web/tacocloud-web (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08/tacocloud-web/tacocloud-web (2).iml" filepath="$PROJECT_DIR$/ch08/tacocloud-web/tacocloud-web (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09/taco-cloud/tacocloud-web/tacocloud-web (3).iml" filepath="$PROJECT_DIR$/ch09/taco-cloud/tacocloud-web/tacocloud-web (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-web/tacocloud-web (4).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-mongodb/tacocloud-web/tacocloud-web (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-web/tacocloud-web (5).iml" filepath="$PROJECT_DIR$/ch11_12/tacocloud-cassandra/tacocloud-web/tacocloud-web (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch15/turbine-server/turbine-server.iml" filepath="$PROJECT_DIR$/ch15/turbine-server/turbine-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch16/turbine-server/turbine-server (1).iml" filepath="$PROJECT_DIR$/ch16/turbine-server/turbine-server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch17/turbine-server/turbine-server (2).iml" filepath="$PROJECT_DIR$/ch17/turbine-server/turbine-server (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch18/turbine-server/turbine-server (3).iml" filepath="$PROJECT_DIR$/ch18/turbine-server/turbine-server (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch19/turbine-server/turbine-server (4).iml" filepath="$PROJECT_DIR$/ch19/turbine-server/turbine-server (4).iml" />
+    </modules>
+  </component>
+</project>
